@@ -1,9 +1,9 @@
 theme: default
 header:
-  name: Chad Baldwin
-  suffix: MCSA
+  name: Rahul Sharma
+  suffix: The Ogre
   display_contact_info: true
-  current_title: Senior Database Developer
+  current_title: Computer Vision Reearcher
   intro: >
     Motivated and versatile software and database developer, MCSA certified in Database
     Development. Proficient in schema design, data normalization techniques and query/index tuning.
@@ -13,7 +13,7 @@ header:
 contact:
   #address: 123 Main St, Test, CA 91234
   #phone: (123) 456-7890
-  email: resume@chadbaldwin.net
+  email: rahuls@aaweg.com
 sections:
   experience:   true
   education:    true
@@ -25,11 +25,11 @@ sections:
   links:        true
   social_links: false
 social:
-  Website:    http://chadbaldwin.net
-  GitHub:     https://github.com/chadbaldwin
-  Twitter:    https://twitter.com/chad_baldwin
+  Website:    http://www.aaweg.com
+  GitHub:     https://github.com/the-ogre
+  #Twitter:    https://twitter.com/chad_baldwin
   #Dribbble:  https://dribbble.com/chadbaldwin
   #FaceBook:  https://facebook.com/iamchadbaldwin
-  LinkedIn:   https://linkedin.com/in/chadbaldwin
+  LinkedIn:   https://linkedin.com/in/rahultheogre
   #Instagram: https://instagram.com/chad_baldwin
-  #Medium:    https://medium.com/@chad-baldwin
+  #Medium:    https://medium.com/@aaweg-i
