@@ -1,26 +1,25 @@
 theme: minima
 
-title: Chad's Blog
-author: Chad Baldwin
-email: blog@chadbaldwin.net
-url: https://chadbaldwin.net
+title: Aaweg I
+author: The Ogre
+email: rahul@aaweg.com
 
 timezone: Etc/UTC # GitHub uses UTC. This is to force dev environment to match
 future: false # GitHub Pages will publish future posts if this isn't set to false
 
 description: >
-  My first blog. Probably no one else will ever read it, but oh well.
+  This blog contains articles written by The Ogre on topics like Machine learning, Computer Vision, Data Structures etc. 
 
 # Minima variables
 twitter_username:  chad_baldwin
-github_username:   chadbaldwin
-linkedin_username: chadbaldwin
+github_username:   the-ogre
+linkedin_username: rahultheogre
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
 #pinterest_username: jekyll
-#youtube_username: jekyll
+youtube_username: @aaweg-i
 #googleplus_username: +jekyll
 rss: rss
 
